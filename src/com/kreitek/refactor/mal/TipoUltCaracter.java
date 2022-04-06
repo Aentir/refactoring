@@ -4,5 +4,6 @@ public enum TipoUltCaracter
 {
     LETRA,
     NUMERO,
-    AMBOS
+    AMBOS,
+    NINGUNO
 }
